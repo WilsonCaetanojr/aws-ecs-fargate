@@ -14,7 +14,13 @@ The technologies used in the project:
 
 * [Node](https://nodejs.org/)      
 * [Docker](https://www.docker.com/)            
-* [AWS-CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)      
+* [AWS-CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+   - ECS
+   - VPC
+   - ECR
+   - IAM
+   - Cloudwatch
+   - AWS Fargate
 
 # :dart: Project's Goal
 
